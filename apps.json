@@ -1,0 +1,37 @@
+{
+  "name": "PORTOCam",
+  "identifier": "com.portocam.altstore",
+  "subtitle": "Apps do PORTOCam para iPhone",
+  "sourceURL": "https://raw.githubusercontent.com/rosivaldoporto-sudo/portocam-altstore/main/apps.json",
+  "apps": [
+    {
+      "name": "PORTO Mic",
+      "bundleIdentifier": "com.portocam.portomic",
+      "developerName": "PORTOCam",
+      "subtitle": "Câmera e microfone para o PORTOCam",
+      "localizedDescription": "Grava takes em 4K, envia ao PC do PORTOCam pela rede Wi-Fi local e escolhe o microfone USB. A transmissão ao vivo ainda está desligada.",
+      "tintColor": "1E88E5",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-17",
+          "localizedDescription": "Primeira versão de teste: câmera, gravação, pareamento com o PC e biblioteca.",
+          "downloadURL": "https://github.com/rosivaldoporto-sudo/portocam-altstore/releases/download/v1.0/PORTOMic-unsigned.ipa",
+          "size": 315127,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "O PORTO Mic usa o microfone para gravar o áudio e medir o nível do microfone escolhido.",
+          "NSCameraUsageDescription": "O PORTO Mic usa a câmera para mostrar a imagem, gravar o take e ajustar lente, zoom, foco e exposição.",
+          "NSLocalNetworkUsageDescription": "O PORTO Mic conversa com o PORTOCam no seu computador, na rede Wi-Fi local."
+        }
+      }
+    }
+  ],
+  "news": []
+}
