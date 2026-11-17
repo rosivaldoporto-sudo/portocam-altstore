@@ -10,10 +10,19 @@
       "developerName": "PORTOCam",
       "iconURL": "https://raw.githubusercontent.com/rosivaldoporto-sudo/portocam-altstore/main/icon.png",
       "subtitle": "Câmera e microfone para o PORTOCam",
-      "localizedDescription": "Grava takes em 4K, envia ao PC do PORTOCam pela rede Wi-Fi local e escolhe o microfone USB. A transmissão ao vivo ainda está desligada.",
+      "localizedDescription": "Câmera e microfone do iPhone para o PORTOCam: grava takes em 4K, envia ao PC pela rede Wi-Fi local, transmite ao vivo para o preview do PC e escolhe o microfone USB. O pareamento por QR code confere o certificado do PC sozinho, sem instalar perfil no iPhone.",
       "tintColor": "1E88E5",
       "category": "utilities",
       "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-11-17",
+          "localizedDescription": "Pareamento por QR code que confere o certificado do PC sozinho (sem instalar perfil), tela PC e visual novos, ícone novo e correções de envio, câmera e áudio.",
+          "downloadURL": "https://github.com/rosivaldoporto-sudo/portocam-altstore/releases/download/v1.1/PORTOMic-unsigned.ipa",
+          "size": 6879299,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0",
           "buildVersion": "1",
