@@ -8,6 +8,7 @@
       "name": "PORTO Mic",
       "bundleIdentifier": "com.portocam.portomic2",
       "developerName": "PORTOCam",
+      "iconURL": "https://raw.githubusercontent.com/rosivaldoporto-sudo/portocam-altstore/main/icon.png",
       "subtitle": "Câmera e microfone para o PORTOCam",
       "localizedDescription": "Grava takes em 4K, envia ao PC do PORTOCam pela rede Wi-Fi local e escolhe o microfone USB. A transmissão ao vivo ainda está desligada.",
       "tintColor": "1E88E5",
